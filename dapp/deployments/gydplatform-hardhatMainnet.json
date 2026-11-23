@@ -1,0 +1,9 @@
+{
+  "network": "hardhatMainnet",
+  "contractAddress": "0x3f3bc9379fcc1135cbcf84cf682e80fc699350e39394ad6f6b1927e0c8182a61",
+  "deployer": "0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266",
+  "ownerName": "Local Owner",
+  "adminAddress": "0x8626f6940e2eb28930efb4cef49b2d1f2c9c1199",
+  "adminName": "TestAdmin",
+  "deployedAt": "2025-12-02T05:14:54.390Z"
+}

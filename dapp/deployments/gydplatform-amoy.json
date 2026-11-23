@@ -1,0 +1,12 @@
+{
+  "network": "amoy",
+  "chainId": 80002,
+  "contractAddress": "0x72c0fec7154745d5bfd39b186c0ef7857f462e89",
+  "deployer": "0x9Ee316dBF4170271FDEf6fBbc9BA8778BA7D024b",
+  "ownerName": "Amoy Owner",
+  "adminAddress": "0x73258b2163fC260442556d35f8549BD40Dda0E1e",
+  "adminName": "Amoy Admin",
+  "explorerUrl": "https://amoy.polygonscan.com/address/0x72c0fec7154745d5bfd39b186c0ef7857f462e89",
+  "transactionHash": "0x0fbc0e56ccd23fc8831fcbbb9e63e70db1640c21d1bdefe9c10b1d6776fa8ee8",
+  "deployedAt": "2026-05-08T10:31:50.018Z"
+}

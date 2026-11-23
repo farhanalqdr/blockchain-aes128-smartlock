@@ -1,0 +1,19 @@
+{
+  "name": "dapp",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "deploy:amoy": "npx hardhat run scripts/deploy-gydplatform-amoy.ts --network amoy",
+    "deploy:testnet": "npm run deploy:amoy"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ignition": "^3.0.5",
+    "@nomicfoundation/hardhat-toolbox-viem": "^5.0.1",
+    "@types/node": "^22.19.1",
+    "dotenv": "^17.2.3",
+    "forge-std": "github:foundry-rs/forge-std#v1.9.4",
+    "hardhat": "^3.0.16",
+    "typescript": "~5.8.0",
+    "viem": "^2.40.3"
+  }
+}

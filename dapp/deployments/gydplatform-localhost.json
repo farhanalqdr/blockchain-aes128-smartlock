@@ -1,0 +1,9 @@
+{
+  "network": "localhost",
+  "contractAddress": "0x663f3ad617193148711d28f5334ee4ed07016602",
+  "deployer": "0x3c44cdddb6a900fa2b585dd299e03d12fa4293bc",
+  "ownerName": "Local Owner",
+  "adminAddress": "0x70997970c51812dc3a010c7d01b50e0d17dc79c8",
+  "adminName": "Default Admin",
+  "deployedAt": "2025-12-03T12:55:56.469Z"
+}

@@ -1,0 +1,9 @@
+{
+  "network": "sepolia",
+  "contractAddress": "0xa9ee2dd3eb153ed4ca303f356bcc9af1e80d0991",
+  "deployer": "0x9ee316dbf4170271fdef6fbbc9ba8778ba7d024b",
+  "ownerName": "Testnet Owner",
+  "adminAddress": "0x73258b2163fC260442556d35f8549BD40Dda0E1e",
+  "adminName": "Testnet Admin",
+  "deployedAt": "2026-04-13T08:38:25.345Z"
+}
