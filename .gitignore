@@ -1,0 +1,41 @@
+# Private credentials; never commit these
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+**/keys/
+**/secrets/
+**/ssl/
+
+# Dependencies and generated assets
+node_modules/
+**/node_modules/
+**/dist/
+**/build/
+**/artifacts/
+**/cache/
+**/coverage/
+**/types/
+**/logs/
+*.log
+**/benchmarks/*.json
+**/benchmarks/*.csv
+**/measurements/*.json
+**/measurements/*.csv
+
+# Machine-specific files
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
