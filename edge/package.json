@@ -1,0 +1,22 @@
+{
+  "name": "edge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Raspberry Pi smartlock command listener with AES-128-GCM verification and blockchain execution feedback",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.6.1",
+    "ethers": "^6.16.0",
+    "node-forge": "^1.3.1",
+    "web3": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
